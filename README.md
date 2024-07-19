@@ -27,8 +27,8 @@ Welcome to the Pizza Delivery System, an all-in-one platform designed to streaml
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/pizza-delivery-system.git
-   cd pizza-delivery-system
+   git clone (https://github.com/anshikaamishra/Pizza_Delight.git)
+   cd Pizza_Delight
    ```
 
 2. **Install dependencies:**
@@ -82,11 +82,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any inquiries or feedback, please contact [your-email@example.com].
 
 ---
 
